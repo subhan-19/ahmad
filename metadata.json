@@ -1,0 +1,6 @@
+{
+  "name": "AHX Cricket",
+  "description": "Live cricket scores, scorecards, player statistics, ICC rankings, and team squads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
